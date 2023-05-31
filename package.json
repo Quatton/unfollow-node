@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "@types/jest": "~29.5",
+    "@types/lodash": "^4.14.195",
     "@types/node": "~18",
     "@typescript-eslint/eslint-plugin": "~5.59",
     "@typescript-eslint/parser": "~5.59",
@@ -36,6 +37,8 @@
   "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
   "license": "Apache-2.0",
   "dependencies": {
+    "dotenv": "^16.1.1",
+    "instagram-private-api": "^1.45.3",
     "tslib": "~2.5"
   },
   "volta": {
